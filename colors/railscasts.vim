@@ -28,7 +28,7 @@ let g:colors_name = "railscasts"
 
 hi Normal                    guifg=#E6E1DC guibg=#2B2B2B ctermfg=white ctermbg=none
 hi Cursor                    guifg=#000000 guibg=#FFFFFF ctermfg=0 ctermbg=15
-hi CursorLine                guibg=#533435 ctermbg=225 cterm=NONE
+hi CursorLine                guibg=#533435 ctermbg=52 cterm=NONE
 hi Search                    guibg=#5A647E ctermfg=NONE ctermbg=236 cterm=underline
 hi Visual                    guibg=#5A647E ctermbg=60
 hi LineNr                    guifg=#888888 ctermfg=242
